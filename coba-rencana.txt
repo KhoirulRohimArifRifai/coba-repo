@@ -1,6 +1,6 @@
 COBA RENCANA 
       Lorem ipsum generators are tools that create random text that resembles Latin.
             -Lorem
-                  ^ lorem ipsum generate
-            -Ipsum lorem
+                  ^ lorem ipsum
+            -Ipsum
 
